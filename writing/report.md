@@ -16,11 +16,11 @@ The two sequences for `s1.fasta` and `s2.fasta` are pretty similar genetic seque
 
  3. Are the two sequences closely related to each other, in your opinion?
 
-I would say that the two sequences are closely related to each other because of the high score of 29 they got for the Needleman Wunsch algorithm.
+I would say that the two sequences are closely related to each other because of the high score of 29 they got for the Needleman Wunsch algorithm. 
 
  4. What proof do you have to suggest such a claim?
 
-The proof that I have to suggest this claim is that the genetic sequences are similar comes from the score of 29 that was obtained at the end of the two sequence comparisons. This suggests that there's no random chance that they're related and that they have a lot of genetic overlapping.
+The proof that I have to suggest this claim is that the genetic sequences are similar comes from the score of 29 that was obtained at the end of the two sequence comparisons. This suggests that there's no random chance that they're related and that they have a lot of genetic overlapping that indicates that they're closely related.
 
 
 
@@ -43,10 +43,13 @@ The proof that I have to suggest this claim is that the genetic sequences are si
  b = Influenza A ChinaGD012006 humanH5N1isolate segment4.fasta
  c = Influenza avianHong Kong2007 avianH5N1 segment4.fasta
 
+ * A-B
  ![A-B](images/needle-a-b.png)
 
+ * A-C
  ![A-C](images/needle-a-c.png)
 
+ * B-C
  ![B-C](images/needle-b-c.png)
 
 (Did you remember to add your name to this Markdown file?) Yeah!
