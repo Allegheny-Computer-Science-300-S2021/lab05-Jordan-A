@@ -43,10 +43,10 @@ The proof that I have to suggest this claim is that the genetic sequences are si
  b = Influenza A ChinaGD012006 humanH5N1isolate segment4.fasta
  c = Influenza avianHong Kong2007 avianH5N1 segment4.fasta
 
- ![A-B](/images/needle-a-b.png)
+ ![A-B](images/needle-a-b.png)
 
- ![A-C](/images/needle-a-c.png)
+ ![A-C](images/needle-a-c.png)
 
- ![B-C](/images/needle-b-c.png)
+ ![B-C](images/needle-b-c.png)
 
 (Did you remember to add your name to this Markdown file?) Yeah!
