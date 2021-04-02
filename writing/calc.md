@@ -1,4 +1,4 @@
-#### Name: Add Your Name Here
+#### Name: Jordan Byrne
 #### Date: 29 March 2021
 #### What this is: Calculations from the manual work out of the Needleman-Wunsch algorithm.
 
@@ -24,44 +24,44 @@ a)
 
 
 b)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               A != T Not a match
+- Left entry calculation:          1 + -1 = 0
+- Above entry calculation:         -2 -1 = -3
+- Diagonal entry calculation:      -1 + 0 = -1
+- Max score: 0 from left entry calculation
 
 
 c)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               T != A Not a match
+- Left entry calculation:          -2 -1 = -3
+- Above entry calculation:         1 - 1 = 0
+- Diagonal entry calculation:      -1 + 0 = -1
+- Max score: 0 from the Above entry
 
 
 d)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               T = T Match!
+- Left entry calculation:          0 - 1 = -1
+- Above entry calculation:         0 - 1 = -1
+- Diagonal entry calculation:      1 + 1 = 2
+- Max score: 2 from the diagonal entry calculation
 
 
 e)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               G != A
+- Left entry calculation:          -3 - 1 = -4
+- Above entry calculation:         0 - 1 = -1
+- Diagonal entry calculation:      -2 = 0 = -2
+- Max score: -1 from the above entry calculation
 
 
 f)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
-- Diagonal entry calculation:      #TODO
-- Max score: 1 from the Diagonal   #TODO
+- Match or Mismatch:               G != T Not a match
+- Left entry calculation:          -1 -1 = -2
+- Above entry calculation:         2 - 1 = 1
+- Diagonal entry calculation:      0 + 0 = 0
+- Max score: 1 from the above entry calculation
 
 
 
-(Did you remember to add your name to this Markdown file?)
+(Did you remember to add your name to this Markdown file?) Yes!
