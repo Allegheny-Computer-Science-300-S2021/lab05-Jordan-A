@@ -28,20 +28,25 @@ The proof that I have to suggest this claim is that the genetic sequences are si
 #### Part 2
  1. How much similarity exists between each of the sequences to the others?
 
-#TODO
+ There is a very high degree of similarity between all of the sequences but with some more than others. Specifically the sequences that were most closely related was sequence "b" Influenza_A_China (human) and sequence "c" Influenza_avian Hong_Kong2007. The sequence that had the least amount of similarity was the Influenza A Chicken Vietnam2005 and Influenza A China (humanH5N1isolate).
 
 
  2. Based on your results so far (which are too few to provide a comprehensive study), do you believe there is evidence that human adaptation is occurring in H5N1 viruses that might merit concern about human-to-human transmission in the near future?
 
 
-#TODO
+ I believe that there is some concern that H5N1 viruses could develop the capacity of human to human transmission in the near future. I base this concern from the similarity of the human isolate sequence that was found in China and the Influenza virus that was found in Hong Kong. Although these results are not conclusive since there is still less than 3% difference between these two viruses meaning that there is not a total genetic overlap between them suggesting that the Influenza virus found in Hong Kong does not have all of the capabilities of the Influenza virus found in China (human isolate).
+
 
  3. Statistics: What were the numbers of Lengths, Similarities, Gaps and Scores for each of your alignment tasks?
 
+ a = Influenza A Chicken Vietnam2005 avianH5N1 segment4.fasta
+ b = Influenza A ChinaGD012006 humanH5N1isolate segment4.fasta
+ c = Influenza avianHong Kong2007 avianH5N1 segment4.fasta
 
-#TODO
+ ![A-B](/images/needle-a-b.png)
 
+ ![A-C](/images/needle-a-c.png)
 
-
+ ![B-C](/images/needle-b-c.png)
 
 (Did you remember to add your name to this Markdown file?) Yeah!
